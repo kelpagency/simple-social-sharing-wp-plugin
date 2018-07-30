@@ -1,9 +1,5 @@
 # Simple Social Sharing by Kelp
 
-A social sharing plugin that's accessible, performant, and looks good.
-
-## Description
-
 Social sharing buttons that are performant, accessible, and have a ton of customization features built-in. Choose your sharing icon design ranging from rounded, squircles, or just basic icons. Display them in a vertical layout for a sidebar or horizontally with your main content.
 
 ### Performant and Accessible?
