@@ -1,9 +1,9 @@
 === Simple Social Sharing by Kelp ===
 Contributors: stefenphelps
-Donate link: https://kelp.agency/
+Donate link: https://www.kelp.agency/
 Tags: social share, sharing buttons, social sharing, sharing links
 Requires at least: 4.0
-Tested up to: 4.9
+Tested up to: 6.3
 Stable tag: trunk
 Requires PHP: 5.2.4
 License: GPLv2
@@ -36,8 +36,12 @@ The icons are built using inline SVG and CSS. By using the native `title` attrib
 
 = 0.1 =
 * Initial release
+= 0.2 =
+* Remove Google+ and cleanup CSS
 
 == Upgrade Notice ==
 
 = 0.1 =
 Initial release
+= 0.2 =
+* Remove Google+ and cleanup CSS
